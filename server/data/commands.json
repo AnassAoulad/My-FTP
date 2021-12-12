@@ -1,0 +1,38 @@
+[
+  {
+    "commande": "USER",
+    "description":"211 System status, or system help reply."
+  },
+  {
+    "commande": "PASS",
+    "description":"331 User name ok, need pass."
+  },
+  {
+    "commande": "LIST",
+    "description":"125 Data connection already open; transfer starting."
+  },
+  {
+    "commande": "CWD",
+    "description":"250 New directory,"
+  },
+  {
+    "commande": "RETR",
+    "description": "150 File status okay; about to open data connection."
+  },
+  {
+    "commande": "STOR",
+    "description": "226 Closing data connection."
+  },
+  {
+    "commande": "PWD",
+    "description": "257,"
+  },
+  {
+    "commande": "HELP",
+    "description": "211 System status, or system help reply."
+  },
+  {
+    "commande": "QUIT",
+    "description": "221 Service closing control connection. Logged out if appropriate."
+  }
+]
