@@ -1,6 +1,5 @@
 # My-FTP
 
-[Instruction](https://github.com/Gi-jutsu/myftp)
 # Requirements
 
 - :eight_spoked_asterisk: NodeJS version `^14.7.6` (manage NodeJS versions with [nodeenv](https://github.com/nodenv/nodenv) or [nvm](https://github.com/nvm-sh/nvm))
@@ -25,5 +24,6 @@ Command which client supported :
 - **QUIT**: close the connection and stop the program. </br>
 ## Documentation
 
+- [Instruction](https://github.com/Gi-jutsu/myftp)
 - [node](https://nodejs.org/api/process.html)
 - [rfc959](https://datatracker.ietf.org/doc/html/rfc959)
