@@ -1,6 +1,6 @@
 # My-FTP
 
-[![Instruction](https://github.com/Gi-jutsu/myftp)
+[![Instruction](https://github.com/Gi-jutsu/myftp)]
 # Requirements
 
 - :eight_spoked_asterisk: NodeJS version `^14.7.6` (manage NodeJS versions with [nodeenv](https://github.com/nodenv/nodenv) or [nvm](https://github.com/nvm-sh/nvm))
